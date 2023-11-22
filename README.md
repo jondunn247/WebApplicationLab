@@ -5,10 +5,9 @@ Project consists of building, securing, and protecting a cloud application that 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Jump Box</b> 
 
 <h2>Environments Used </h2>
 
