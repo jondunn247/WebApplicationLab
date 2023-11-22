@@ -12,8 +12,8 @@ Project consists of building, securing, and protecting a cloud application that 
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure cloud services</b>
-- <b>Azure cloud portal</b>
+- <b>Microsoft Azure Cloud Services</b>
+- <b>Azure Cloud Portal</b>
 
 <h2>Project walk-through:</h2>
 
