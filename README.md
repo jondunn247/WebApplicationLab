@@ -17,27 +17,27 @@ Project consists of building, securing, and protecting a cloud application that 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Web App: <br/>
 <img src="https://i.imgur.com/o1UgJXf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Blog Post 1:  <br/>
 <img src="https://i.imgur.com/FzRJEJ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /
 <br />
-Enter the number of passes: <br/>
+Blog Post 2: <br/>
 <img src="https://i.imgur.com/A8UOpHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+DNS lookup on website indicates which DNS server is authoritative for that domain:  <br/>
 <img src="https://i.imgur.com/H268i24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Azure Front Door enabled:  <br/>
 <img src="https://i.imgur.com/tiuexXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+WAF custom rule:  <br/>
 <img src="https://i.imgur.com/8pizpik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
