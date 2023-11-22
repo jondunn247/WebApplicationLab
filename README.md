@@ -1,7 +1,7 @@
 <h1>Web Application Lab</h1>
 
 <h2>Description</h2>
-Project consists of building, securing, and protecting a cloud application that hosts my own cyber blog. It includes cloud, cloud security, networking, web development, cryptography, and network security topics—deliverables
+Project consists of building, securing, and protecting a cloud application that hosts my own cyber blog. It includes cloud, cloud security, networking, web development, cryptography, and network security topics—deliverables.
 <br />
 
 
