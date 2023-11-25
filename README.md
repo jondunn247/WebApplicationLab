@@ -14,36 +14,8 @@ Project consists of building, securing, and protecting a cloud application that 
 - <b>Microsoft Azure Cloud Services</b>
 - <b>Azure Cloud Portal</b>
 
-<h2>Project walk-through:</h2>
+<h2>Web Application walk-through:</h2>
 
-<p align="center">
-Web App: <br/>
-<img src="https://i.imgur.com/o1UgJXf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Blog Post 1:  <br/>
-<img src="https://i.imgur.com/FzRJEJ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /
-<br />
-Blog Post 2: <br/>
-<img src="https://i.imgur.com/A8UOpHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-DNS lookup on website indicates which DNS server is authoritative for that domain:  <br/>
-<img src="https://i.imgur.com/H268i24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Azure Front Door enabled:  <br/>
-<img src="https://i.imgur.com/tiuexXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-WAF custom rule:  <br/>
-<img src="https://i.imgur.com/8pizpik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-
-## Your Web Application
 
 Enter the URL for the web application that you created:
 
@@ -55,10 +27,15 @@ https://skor.azurewebsites.net
 
 Paste screenshots of your website created (Be sure to include your blog posts):
 
+### Web App:
+<img src="https://i.imgur.com/o1UgJXf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-```
+### Blog Post 1: 
+<img src="https://i.imgur.com/FzRJEJ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-```
+### Blog Post 2:
+<img src="https://i.imgur.com/A8UOpHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 ## Day 1 Questions
@@ -104,9 +81,8 @@ Sydney, New South Wales, Australia
 
 3. Run a DNS lookup on your website. What does the NS record show?
 
-```
-
-```
+##
+<img src="https://i.imgur.com/H268i24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -297,16 +273,13 @@ This is correct. Anyone with an IP address located in Canada would be blocked fr
 7. Include screenshots below to demonstrate that your web app has the following:
     1. Azure Front Door enabled
 
-```
-
-```
-
+<img src="https://i.imgur.com/tiuexXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
     2. A WAF custom rule
 
-```
+<img src="https://i.imgur.com/8pizpik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-```
+
 </p>
 
 <!--
